@@ -1,0 +1,198 @@
+accept	chấp nhận
+acceptance test	sự thử nghiệm thu 
+Acess to the site 	ra vào công trường
+acid-resisting concrete 	bê tông chịu axit 
+action	hành động
+Action	tác động, tác dụng; sự hoạt động
+Action effect	hiệu quả hoạt động
+Activity schedule 	Biểu khối lượng công việc
+actor	nam diễn viên
+actual load 	tải trọng thực, tải trọng có ích 
+add	cộng, thêm vào
+age	tuổi
+air test	sự thử độ kín; sự thử bằng không khí nén 
+alloy steel	thép hợp kim
+Alloy(ed) steel	Thép hợp kim
+alternate load 	tải trọng đổi dấu 
+alternate-stress test	sự thử ứng suất đổi đầu 
+altitude test	sự thử nghiệm trên cao; sự thử nghiệm độ cao 
+always	luôn luôn
+Anchor	cái neo
+Anchor bolt	bulông neo
+appear	xuất hiện
+Attached pier	cột chống; cột giả
+average load 	tải trọng trung bình 
+axial load 	tải trọng hướng trục 
+axle load 	tải trọng lên trục 
+bad	tồi
+Bag	Túi
+balance beam 	đòn cân; đòn thăng bằng 
+balanced load 	tải trọng đối xứng 
+balancing load 	tải trọng cân bằng 
+ballast concrete 	bê tông đá dăm 
+Balloon-frame construction	kết cấu khung nhà gỗ nhẹ
+banana	quả chuối
+band-over test	sự thử bẻ cong 
+Bar (reinforcing bar)	Thanh cốt thép
+base	cơ sở
+Base	nền; móng; bệ
+Base structure	kết cấu nền móng
+basement of tamped (rammed) concrete 	móng (tầng ngầm) làm bằng cách đổ bê tông
+Baseplate		tấm đệm, tấm lót
+basic load 	tải trọng cơ bản 
+Batter	sườn dốc, mái dốc; độ nghiêng mặt ngoài
+beach	bãi biển
+Beam of constant depth	Dầm có chiều cao không đổi
+Beam reinforced in tension and compression	Dầm có cả cốt thép chịu kéo và chịu nén
+Beam reinforced in tension only	Dầm chỉ có cốt thép chịu kéo
+bearable load 	tải trọng cho phép 
+beauty	đẹp
+bed load 	trầm tích đáy 
+Bedding	Móng cống
+before	trước
+Before	Trước khi
+bend(ing) test	sự thử uốn 
+bending load 	tải trọng uốn 
+Bending strength 	Độ bền uốn
+Bent-up bar	Cốt thép uốn nghiêng lên
+best load 	công suất khi hiệu suất lớn nhất (tuabin) 
+blue	xanh
+book	sách
+break-down test	sự thử đứt; sự thử gãy 
+breaking load 	tải trọng phá hủy 
+caculator	máy tính bỏ túi
+Cat	con mèo
+color	màu sắc
+computer	máy vi tính
+copy	sao chép
+cut	cắt
+delete	xóa
+dog	con chó
+dolphin	cá heo
+effect	hiệu ứng, ảnh hưởng
+egg	trứng
+evening	buổi tối
+exit	thoát
+false	sai
+fat	béo
+feed	cho ăn
+fingure	ngón tay
+fish	cá
+follow	theo
+food	thức ăn
+good	tốt
+good afternoon	chào buổi chiều
+good morning	chào buổi sáng
+goodbye	tạm biệt
+hand	cánh tay
+hand	tay
+handsome	đẹp trai
+hard	khó
+height	chiều cao
+hello	xin chào
+hungry	đói
+hungry up	nhanh lên
+hunt	săn bắn
+hunter	thợ săn
+hurt	đau
+in	trong
+inside	bên trong
+intelligent	thông minh
+job	công việc
+kind	tốt bụng
+know	biết
+limit	giới hạn
+look	nhìn
+look for	tìm kiếm
+look up	tra từ điển
+lool after	chăm sóc
+may	có thể
+meet	thịt lợn
+might	phải
+morning	buổi sáng
+must	bắt buộc
+nice	tốt, tuyệt
+night	buổi tối
+no	không
+noon	buổi trưa
+often	thường
+on	trên
+orange	quả cam
+oscillating load 	tải (trọng) dao động 
+Other contractors 	Các nhà thầu khác
+out	ngoài
+outside	bên ngoài
+Overall depth of member	Chiều cao toàn bộ của cấu kiện
+Overlap	Nối chồng
+overload test	sự thử quá tải 
+pen	cái bút
+person	người
+play	chơi
+practice	thực hành
+print	in
+put	đặt
+quality	chất lượng cao 
+Quality control 	Kiểm soát chất lượng
+quenching test	sự thử bằng cách tôi; mẫu thử độ thấm tôi
+quick	nhanh
+quick test	sự thử nhanh 
+quiescent load 	tải trọng tĩnh 
+quit	thoát
+racking (raking) back 	đầu chờ xây
+racking load 	tải trọng dao động 
+radial load 	tải trọng hướng kính 
+radio (-frequency) beam 	chùm tần số vô tuyến điện 
+rarely	hiếm khi
+read	đọc
+receive	nhận
+red	đỏ
+school	trường
+send	gửi
+some	một vài
+speak	nói
+student	học sinh
+stupid	ngu ngốc
+Superelevation	Siêu cao
+superimposed load 	tải trọng phụ thêm 
+supersonic test	sự thử bằng siêu âm 
+supporting beam 	dầm đỡ, xà đỡ 
+surcharge load 	sự quá tải 
+surface	bề mặt 
+suspension girder 	dầm treo 
+take	lấy
+Tax 	thuế
+think	nghĩ
+tiger	Con hổ
+true	đúng
+Ultimate	Giới hạn
+Ultimate compressive strength 	Giới hạn bền nén
+ultimate load 	tải trọng giới hạn 
+under	dưới
+uniform	đồng phục
+up	lên
+up load 	tải trọng thẳng đứng lên trên (lực nâng) 
+upper floor	Tầng trên
+upsetting test	sự thử co, sự thử chồn 
+useful load 	tải trọng có ích 
+utility room door	cửa buồng công trình phụ
+utility room window 	cửa sổ buồng công trình phụ
+vacuum concrete 	bê tông chân không 
+variable	Biến, ẩn số
+Variations 	Các thay đổi ( Chủ đầu tư yêu cầu Nhà thầu thực hiện một công việc nào đó khác đi so với hợp đồng ban đầu)
+very	rất
+view	lượt xem
+vip	cao cấp
+water	nước
+wear	mặc, mang
+weather	thời tiết
+who	ai
+wish	điều ước, ước nguyện
+wonderful	tuyệt vời
+work	làm việc
+work	làm việc
+write	viết
+yellow	vàng
+yes	có
+you	bạn
+young	trẻ
+﻿Abraham’s cones	Khuôn hình chóp cụt để đo độ sụt bê tông

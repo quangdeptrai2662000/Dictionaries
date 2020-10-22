@@ -1,0 +1,12 @@
+.button1 {
+    -fx-font-family: Arial;
+    -fx-background-color: rgba(0,150,150,1);
+    -fx-font-weight: bold;
+    -fx-text-fill: yellow;
+}
+.button2 {
+    -fx-font-family: Arial;
+    -fx-background-color: rgba(100,20,20,0.3);
+    -fx-font-weight: bold;
+    -fx-text-fill: red;
+}
